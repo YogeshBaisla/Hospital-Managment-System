@@ -1,0 +1,10 @@
+
+Name :- Yogesh
+Age :- 22
+Sallary :- 22000
+Working Postion :- Doctor
+
+Name :- Jeff
+Age :- 25
+Sallary :- 21000
+Working Postion :- doctor
